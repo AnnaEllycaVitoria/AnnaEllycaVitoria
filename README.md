@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌸 Oiii, eu sou a Ellyca!  
 
-<!--
-**AnnaEllycaVitoria/AnnaEllycaVitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudante do **Ensino Médio Integrado** no IFCE - MPE
 
-Here are some ideas to get you started:
+💡 Sempre aprendendo e evoluindo um pouco a cada dia  
+🌸 Aqui compartilho minha trajetória e o que vou construindo ao longo do curso 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🌟 Sobre mim  
+- 🎓 Ensino médio + técnico integrado  
+- 🍿 Amo assistir séries  
+- 🍳 Gosto de cozinhar  
+- ⚡ Me interessa por sistemas embarcados  
+- 🏐 Jogo vôlei nas horas vagas  
+
+---
+
+## 📘 Atualmente estudo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
+---
+
