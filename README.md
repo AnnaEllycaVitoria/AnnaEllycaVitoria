@@ -10,7 +10,7 @@
 - 🎓 Ensino médio + técnico integrado  
 - 🍿 Amo assistir séries  
 - 🍳 Gosto de cozinhar  
-- ⚡ Me interessa por sistemas embarcados  
+- ⚡ Me interesso por sistemas embarcados  
 - 🏐 Jogo vôlei nas horas vagas  
 
 ---
